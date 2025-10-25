@@ -1,7 +1,7 @@
 function Hero() {
   return (
     <section
-      id="inicio"
+      id="home"
       className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-900 to-purple-900 text-white pt-20"
     >
       <div className="container mx-auto text-center px-4">
